@@ -1,0 +1,14 @@
+{
+  "build_script": "webpack",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "shiriev/train-depot",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "079d3607037df9fe7528fbe6b8e7d8c8940b21f3"
+}
